@@ -30,4 +30,28 @@ The main business question that this project aim to address is:
 5.	What trade-offs exist between model complexity and interpretability?
 
 
+### **<u>1.4 A Brief Description of the Chosen Dataset**
+This project addresses customer churn prediction using the representative public Telco Customer Churn dataset (bigml_59c28831336c6604c800002a.csv;- applied as bigml_59) This dataset contains 3,333 customer records, each with 21 features covering demographics, account tenure, service usage, billing, and customer interactions. The target variable is binary churn status. Despite not being SyriaTel-specific, the dataset's structure mirrors typical telecom data, making it a relevant foundation for developing predictive models.
+
+By analyzing this dataset with classification algorithms, the project aims to identify early indicators of customer churn. This process provides a potential blueprint for a predictive system that SyriaTel could adapt for its internal data. The dataset's realistic structure allows for the development of a practical solution for proactively managing customer attrition within a telecom context.
+
+### **<u>1.5 The Project Approach Taken**
+Step 1: Problem Definition and Business Framing
+ 
+Step 2: Data Exploration and Understanding
+ 
+Step 3: Data Cleaning and Preprocessing
+ 
+Step 4: Feature Selection and Engineering
+ 
+Step 5: Model Building
+ 
+Step 6: Model Evaluation
+ 
+Step 7: Interpretation and Insights
+ 
+Step 8: Recommendations and Next Steps
+
+
+
 
