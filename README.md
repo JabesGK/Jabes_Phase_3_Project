@@ -36,7 +36,7 @@ This project addresses customer churn prediction using the representative public
 By analyzing this dataset with classification algorithms, the project aims to identify early indicators of customer churn. This process provides a potential blueprint for a predictive system that SyriaTel could adapt for its internal data. The dataset's realistic structure allows for the development of a practical solution for proactively managing customer attrition within a telecom context.
 
 ### **<u>1.5 The Project Approach Taken**
-Step 1: Problem Definition and Business Framing
+Step 1: Defining the Business Context and Problem.
  
 Step 2: Data Exploration and Understanding
  
