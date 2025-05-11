@@ -177,8 +177,3 @@ To operationalize these insights, SyriaTel should integrate the churn prediction
 - Alerting customer service agents to engage at-risk customers with pre-approved retention offers.
 
 - Scheduling automated customer outreach via SMS, email, or calls for customers flagged by the model.
-
-
-
-
-
